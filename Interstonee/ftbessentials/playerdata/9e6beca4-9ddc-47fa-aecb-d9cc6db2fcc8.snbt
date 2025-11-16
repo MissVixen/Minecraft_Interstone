@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: "Leti"
-	last_seen: { dim: "minecraft:overworld", x: -221, y: 64, z: 170, time: 1763249195183L, xRot: 35.36806f, yRot: -81.233765f }
+	last_seen: { dim: "minecraft:overworld", x: -222, y: 64, z: 167, time: 1763304501278L, xRot: 3.5080843f, yRot: 116.87659f }
 	recording: "none"
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: -493, y: 64, z: -49, time: 1763156394900L, xRot: -5.3028154f, yRot: -126.11636f }
