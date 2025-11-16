@@ -1,0 +1,15 @@
+{
+	id: "cd8b41af-8efe-4a20-8553-707b80d24a2a"
+	type: "player"
+	player_name: "Bario_Monacci"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Bario_Monacci"
+		"ftbteams:description": ""
+		"ftbteams:color": "#EB59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

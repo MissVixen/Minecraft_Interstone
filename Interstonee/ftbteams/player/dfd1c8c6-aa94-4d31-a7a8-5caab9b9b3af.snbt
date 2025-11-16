@@ -1,0 +1,15 @@
+{
+	id: "dfd1c8c6-aa94-4d31-a7a8-5caab9b9b3af"
+	type: "player"
+	player_name: "allaualla"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "allaualla"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59DD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

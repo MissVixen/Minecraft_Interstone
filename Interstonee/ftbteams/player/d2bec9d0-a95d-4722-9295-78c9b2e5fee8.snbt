@@ -1,0 +1,15 @@
+{
+	id: "d2bec9d0-a95d-4722-9295-78c9b2e5fee8"
+	type: "player"
+	player_name: "LackStreet"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "LackStreet"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld",
+      "cachedString": "minecraft:overworld"
+    },
+    "id": "df83009d-dd82-4bda-81c4-2b7de28614f7",
+    "ownerID": "d2bec9d0-a95d-4722-9295-78c9b2e5fee8",
+    "pos": {
+      "f_123285_": -2082,
+      "f_123286_": 89,
+      "f_123289_": 567
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld",
+      "cachedString": "minecraft:overworld"
+    },
+    "id": "5cf012aa-ef53-4a89-aea9-81667770f2c0",
+    "ownerID": "d2bec9d0-a95d-4722-9295-78c9b2e5fee8",
+    "pos": {
+      "f_123285_": -2075,
+      "f_123286_": 76,
+      "f_123289_": 691
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld",
+      "cachedString": "minecraft:overworld"
+    },
+    "id": "7de96add-beac-486c-815e-d2ec58f6a9fe",
+    "ownerID": "d2bec9d0-a95d-4722-9295-78c9b2e5fee8",
+    "pos": {
+      "f_123285_": -2072,
+      "f_123286_": 75,
+      "f_123289_": 694
+    },
+    "type": 0
+  }
+]

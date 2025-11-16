@@ -1,0 +1,15 @@
+{
+	id: "f16de035-0556-414f-8277-036ce2cbd31d"
+	type: "player"
+	player_name: "Anrighe"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Anrighe"
+		"ftbteams:description": ""
+		"ftbteams:color": "#EA59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

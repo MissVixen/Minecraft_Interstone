@@ -1,0 +1,15 @@
+{
+	id: "9e6beca4-9ddc-47fa-aecb-d9cc6db2fcc8"
+	type: "player"
+	player_name: "GugolBat"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "GugolBat"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFAA00"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
