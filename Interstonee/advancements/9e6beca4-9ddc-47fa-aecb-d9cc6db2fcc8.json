@@ -18525,7 +18525,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-11-14 20:59:59 +0100",
-      "minecraft:nether_wastes": "2025-11-14 20:59:09 +0100"
+      "minecraft:nether_wastes": "2025-11-14 20:59:09 +0100",
+      "minecraft:basalt_deltas": "2025-11-18 21:41:48 +0100"
     },
     "done": false
   },
@@ -20683,105 +20684,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-17 23:03:59 +0100"
-    },
-    "done": false
-  },
   "createdeco:recipes/decorations/light_blue_shipping_container": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
     },
     "done": true
   },
-  "immersiveengineering:main/place_dynamo": {
-    "criteria": {
-      "place_block": "2025-11-17 21:15:58 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_up": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
-    "criteria": {
-      "has_hoglin_loin": "2025-11-17 22:58:01 +0100"
     },
     "done": true
   },
@@ -20797,39 +20708,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/red_copper_lamp": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_bars_overlay": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_cross": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "brutality:recipes/combat/critical_thinking": {
-    "criteria": {
-      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cut_lapis": {
-    "criteria": {
-      "has_lapis_block": "2025-11-17 22:05:44 +0100"
     },
     "done": true
   },
@@ -20851,36 +20732,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/breaker_switch": {
-    "criteria": {
-      "has_wirecoil_copper": "2025-11-17 21:14:50 +0100"
-    },
-    "done": true
-  },
-  "armageddon_mod:eldorath_treasure_bag_advancmenet": {
-    "criteria": {
-      "eldorath_treasure_bag_advancmenet_0": "2025-11-17 22:51:22 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/lapis_pillar_from_lapis_block_stonecutting": {
-    "criteria": {
-      "has_lapis_block": "2025-11-17 22:05:44 +0100"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_mesh_fence": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_bars_overlay": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
@@ -20899,105 +20750,15 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/lapis_bricks_from_lapis_block_stonecutting": {
-    "criteria": {
-      "has_lapis_block": "2025-11-17 22:05:44 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
-    "criteria": {
-      "hoglin_loin": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
-  "nethers_exorcism_reborn:nether_exorcism": {
-    "criteria": {
-      "nether_exorcism_0": "2025-11-17 22:13:25 +0100"
-    },
-    "done": true
-  },
-  "brutality:recipes/combat/hemograft_needle": {
-    "criteria": {
-      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_shroomlight": {
-    "criteria": {
-      "has_shroomlight": "2025-11-17 22:57:31 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/shroomlight": {
-    "criteria": {
-      "has_shroomlight": "2025-11-17 22:57:31 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/blue_shipping_container": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-11-17 22:54:40 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_copper_ins": {
-    "criteria": {
-      "has_item": "2025-11-17 21:14:50 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/lapis_pillar": {
-    "criteria": {
-      "has_lapis_block": "2025-11-17 22:05:44 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
   "embers:recipes/misc/ember_activator": {
     "criteria": {
       "has_iron_plate": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-11-17 22:13:25 +0100"
     },
     "done": true
   },
@@ -21013,57 +20774,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/nutrient_paste": {
-    "criteria": {
-      "has_shroomlight": "2025-11-17 22:57:31 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/generator": {
-    "criteria": {
-      "has_component_iron": "2025-11-17 21:12:16 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/redstone/redstone_shroomlight": {
-    "criteria": {
-      "has_shroomlight": "2025-11-17 22:57:31 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/yellow_iron_lamp": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-11-17 22:57:31 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/yellow_copper_lamp": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
-    "criteria": {
-      "hoglin_loin": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
-    "criteria": {
-      "has_vanilla_barrel": "2025-11-17 22:05:54 +0100"
     },
     "done": true
   },
@@ -21085,12 +20798,6 @@
     },
     "done": true
   },
-  "embers:recipes/misc/ember_dial": {
-    "criteria": {
-      "has_copper_plate": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_radioactive": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
@@ -21103,33 +20810,15 @@
     },
     "done": true
   },
-  "armageddon_mod:the_diamond_keeper": {
-    "criteria": {
-      "the_diamond_keeper_0": "2025-11-17 22:51:21 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/red_iron_lamp": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/copper_catwalk_forge": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_top_right": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/blue_copper_lamp": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
     },
     "done": true
   },
@@ -21151,75 +20840,15 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-11-17 22:13:25 +0100"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-11-17 22:57:31 +0100"
-    },
-    "done": true
-  },
-  "koopascritters:koopas_critters_advancement": {
-    "criteria": {
-      "koopas_critters_advancement_0": "2025-11-17 22:13:29 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/orange_shipping_container": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
     },
     "done": true
   },
-  "armageddon_mod:overworld_conqueror": {
-    "criteria": {
-      "overworld_conqueror_0": "2025-11-17 22:51:21 +0100"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/item_silo": {
-    "criteria": {
-      "has_item": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "brutality:recipes/combat/hemomatic_locket": {
-    "criteria": {
-      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
-    "criteria": {
-      "has_item": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_mesh_fence": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_support_wedge": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cracked_cut_lapis_from_lapis_block_stonecutting": {
-    "criteria": {
-      "has_lapis_block": "2025-11-17 22:05:44 +0100"
-    },
-    "done": true
-  },
-  "brutality:recipes/combat/salt_shaker_charm": {
-    "criteria": {
-      "has_fairy_dust": "2025-11-17 22:46:26 +0100"
     },
     "done": true
   },
@@ -21247,12 +20876,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/white_shipping_container": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
@@ -21265,21 +20888,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
-    "criteria": {
-      "has_item": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cracked_lapis_bricks_from_lapis_block_stonecutting": {
-    "criteria": {
-      "has_lapis_block": "2025-11-17 22:05:44 +0100"
     },
     "done": true
   },
@@ -21289,63 +20900,15 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/copper_sheet_metal": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_copper": {
-    "criteria": {
-      "has_plate": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_right": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/maintenance_kit": {
-    "criteria": {
-      "has_wirecutter": "2025-11-17 21:13:32 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/green_iron_lamp": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/crimson_roots": {
-    "criteria": {
-      "has_crimson_roots": "2025-11-17 22:57:48 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-11-17 22:13:25 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/strip_lv": {
-    "criteria": {
-      "has_copper_coil": "2025-11-17 21:14:50 +0100"
     },
     "done": true
   },
@@ -21358,12 +20921,6 @@
   "createdeco:recipes/decorations/magenta_shipping_container": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-11-17 22:58:01 +0100"
     },
     "done": true
   },
@@ -21385,63 +20942,15 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
-    "criteria": {
-      "hoglin_loin": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_top_left": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/crafting/nether_burger": {
-    "criteria": {
-      "has_hoglin_loin": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_copper_lamp": {
-    "criteria": {
-      "has_item": "2025-11-17 21:13:06 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "brutality:recipes/combat/self_repair_nexus": {
-    "criteria": {
-      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/bio_forging/shroomlight": {
-    "criteria": {
-      "has_shroomlight": "2025-11-17 22:57:31 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
     },
     "done": true
   },
@@ -21460,18 +20969,6 @@
   "immersiveengineering:recipes/misc/crafting/chute_iron": {
     "criteria": {
       "has_plate": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-11-17 22:57:31 +0100"
     },
     "done": true
   },
@@ -21499,87 +20996,15 @@
     },
     "done": true
   },
-  "brutality:recipes/combat/blood_orb": {
-    "criteria": {
-      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
-    "criteria": {
-      "has_hoglin_loin": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cut_lapis_from_lapis_block_stonecutting": {
-    "criteria": {
-      "has_lapis_block": "2025-11-17 22:05:44 +0100"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/fluid_placer": {
     "criteria": {
       "has_iron_plate": "2025-11-17 21:10:58 +0100"
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
-    "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_crimson_roots": {
-    "criteria": {
-      "has_crimson_roots": "2025-11-17 22:57:48 +0100"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/diamond_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-11-17 22:54:40 +0100"
-    },
-    "done": true
-  },
-  "brutality:recipes/combat/blood_chalice": {
-    "criteria": {
-      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-11-17 22:58:01 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/yellow_shipping_container": {
     "criteria": {
       "has_item": "2025-11-17 21:10:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-11-17 22:58:01 +0100"
     },
     "done": true
   },
@@ -21595,33 +21020,165 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+  "embers:recipes/misc/fluid_pipe": {
     "criteria": {
-      "has_barrel": "2025-11-17 22:05:54 +0100"
+      "has_iron_plate": "2025-11-17 21:10:58 +0100"
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/shroomlamps": {
+  "createdeco:recipes/decorations/iron_support_wedge": {
     "criteria": {
-      "has_core_block": "2025-11-17 22:57:31 +0100"
-    },
-    "done": false
-  },
-  "brutality:recipes/combat/sanguine_signet": {
-    "criteria": {
-      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
+      "has_item": "2025-11-17 21:10:58 +0100"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+  "immersiveengineering:recipes/misc/crafting/generator": {
     "criteria": {
-      "has_item": "2025-11-17 22:05:54 +0100"
+      "has_component_iron": "2025-11-17 21:12:16 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+  "createdeco:recipes/decorations/red_copper_lamp": {
     "criteria": {
-      "has_diamond_ore": "2025-11-17 22:54:40 +0100"
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "embers:recipes/misc/ember_dial": {
+    "criteria": {
+      "has_copper_plate": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_support_wedge": {
+    "criteria": {
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-11-17 21:13:06 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/maintenance_kit": {
+    "criteria": {
+      "has_wirecutter": "2025-11-17 21:13:32 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/breaker_switch": {
+    "criteria": {
+      "has_wirecoil_copper": "2025-11-17 21:14:50 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_copper_ins": {
+    "criteria": {
+      "has_item": "2025-11-17 21:14:50 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/strip_lv": {
+    "criteria": {
+      "has_copper_coil": "2025-11-17 21:14:50 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_dynamo": {
+    "criteria": {
+      "place_block": "2025-11-17 21:15:58 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cut_lapis": {
+    "criteria": {
+      "has_lapis_block": "2025-11-17 22:05:44 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/lapis_pillar_from_lapis_block_stonecutting": {
+    "criteria": {
+      "has_lapis_block": "2025-11-17 22:05:44 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/lapis_bricks_from_lapis_block_stonecutting": {
+    "criteria": {
+      "has_lapis_block": "2025-11-17 22:05:44 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/lapis_pillar": {
+    "criteria": {
+      "has_lapis_block": "2025-11-17 22:05:44 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_cut_lapis_from_lapis_block_stonecutting": {
+    "criteria": {
+      "has_lapis_block": "2025-11-17 22:05:44 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_lapis_bricks_from_lapis_block_stonecutting": {
+    "criteria": {
+      "has_lapis_block": "2025-11-17 22:05:44 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cut_lapis_from_lapis_block_stonecutting": {
+    "criteria": {
+      "has_lapis_block": "2025-11-17 22:05:44 +0100"
     },
     "done": true
   },
@@ -21631,15 +21188,123 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/bloomlight": {
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
     "criteria": {
-      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+      "has_barrel": "2025-11-17 22:05:54 +0100"
     },
     "done": true
   },
-  "embers:recipes/misc/fluid_pipe": {
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
     "criteria": {
-      "has_iron_plate": "2025-11-17 21:10:58 +0100"
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-11-17 22:05:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-11-17 22:05:54 +0100"
     },
     "done": true
   },
@@ -21649,9 +21314,939 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_support_wedge": {
+  "nethers_exorcism_reborn:nether_exorcism": {
     "criteria": {
-      "has_item": "2025-11-17 21:10:58 +0100"
+      "nether_exorcism_0": "2025-11-17 22:13:25 +0100"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-11-17 22:13:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-11-17 22:13:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-11-17 22:13:25 +0100"
+    },
+    "done": true
+  },
+  "koopascritters:koopas_critters_advancement": {
+    "criteria": {
+      "koopas_critters_advancement_0": "2025-11-17 22:13:29 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/salt_shaker_charm": {
+    "criteria": {
+      "has_fairy_dust": "2025-11-17 22:46:26 +0100"
+    },
+    "done": true
+  },
+  "armageddon_mod:the_diamond_keeper": {
+    "criteria": {
+      "the_diamond_keeper_0": "2025-11-17 22:51:21 +0100"
+    },
+    "done": true
+  },
+  "armageddon_mod:overworld_conqueror": {
+    "criteria": {
+      "overworld_conqueror_0": "2025-11-17 22:51:21 +0100"
+    },
+    "done": true
+  },
+  "armageddon_mod:eldorath_treasure_bag_advancmenet": {
+    "criteria": {
+      "eldorath_treasure_bag_advancmenet_0": "2025-11-17 22:51:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-11-17 22:54:40 +0100"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/diamond_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-11-17 22:54:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-11-17 22:54:40 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_shroomlight": {
+    "criteria": {
+      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/shroomlight": {
+    "criteria": {
+      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/nutrient_paste": {
+    "criteria": {
+      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/redstone/redstone_shroomlight": {
+    "criteria": {
+      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/shroomlight": {
+    "criteria": {
+      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_core_block": "2025-11-17 22:57:31 +0100"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/bloomlight": {
+    "criteria": {
+      "has_shroomlight": "2025-11-17 22:57:31 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/crimson_roots": {
+    "criteria": {
+      "has_crimson_roots": "2025-11-17 22:57:48 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_crimson_roots": {
+    "criteria": {
+      "has_crimson_roots": "2025-11-17 22:57:48 +0100"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
+    "criteria": {
+      "has_hoglin_loin": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nether_burger": {
+    "criteria": {
+      "has_hoglin_loin": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-11-17 22:58:01 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/critical_thinking": {
+    "criteria": {
+      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/hemograft_needle": {
+    "criteria": {
+      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/hemomatic_locket": {
+    "criteria": {
+      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/self_repair_nexus": {
+    "criteria": {
+      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/blood_orb": {
+    "criteria": {
+      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/blood_chalice": {
+    "criteria": {
+      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/sanguine_signet": {
+    "criteria": {
+      "has_chthonic_crystal": "2025-11-17 23:00:52 +0100"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-18 22:02:44 +0100"
+    },
+    "done": false
+  },
+  "brutality:recipes/combat/wire_cutters": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/sloth": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/scope_goggles": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/blue_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/mortar_and_pestle_charm": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_lead_to_raw_lead": {
+    "criteria": {
+      "has_raw_block_lead": "2025-11-18 21:11:23 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/cyan_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/noir_boots": {
+    "criteria": {
+      "has_black_matter": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/pink_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_layer": {
+    "criteria": {
+      "has_block": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/red_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/black_matter_necklace": {
+    "criteria": {
+      "has_black_matter": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/bamboo_staff": {
+    "criteria": {
+      "has_daemonium_chunk": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/orange_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/yellow_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/glass_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead_from_blasting3": {
+    "criteria": {
+      "has_raw_lead": "2025-11-18 21:11:23 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/smooth_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/bomb_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2025-11-18 21:43:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_blackstone_pillar_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/soldiers_syringe": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/caramel_crunch_medallion": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/noir_helmet": {
+    "criteria": {
+      "has_black_matter": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/purple_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/microblade_band": {
+    "criteria": {
+      "has_daemonium_chunk": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_fence": {
+    "criteria": {
+      "has_block": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/second_heart": {
+    "criteria": {
+      "has_crystal_heart": "2025-11-18 21:48:12 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/the_cloud": {
+    "criteria": {
+      "has_prismatic_jewel": "2025-11-18 21:38:37 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/brain_rot": {
+    "criteria": {
+      "has_daemonium_chunk": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/misc/unbridled_rage": {
+    "criteria": {
+      "has_black_matter": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/nanomachines": {
+    "criteria": {
+      "has_black_matter": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/deadshot_brooch": {
+    "criteria": {
+      "has_daemoniun_chunk": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/cosmic_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead3": {
+    "criteria": {
+      "has_raw_lead": "2025-11-18 21:11:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_blackstone_tile_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/mana_syringe": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/noir_leggings": {
+    "criteria": {
+      "has_black_matter": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/blackstone": {
+    "criteria": {
+      "has_planks": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_blackstone_tile_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/shadowstep": {
+    "criteria": {
+      "has_black_matter": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/freezer_crafting": {
+    "criteria": {
+      "has_basalt": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/chopstick": {
+    "criteria": {
+      "has_daemonium_chunk": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/energy_focuser": {
+    "criteria": {
+      "has_daemonium_chunk": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/green_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/lust": {
+    "criteria": {
+      "has_crystal_heart": "2025-11-18 21:48:12 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/ruby_phasesaber": {
+    "criteria": {
+      "has_ruby": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/glass_heart": {
+    "criteria": {
+      "has_crystal_heart": "2025-11-18 21:48:12 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/incognito_mode": {
+    "criteria": {
+      "has_black_matter": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_polished_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/tuff": {
+    "criteria": {
+      "has_stone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_blackstone_tile_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/crowbar": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_urn": {
+    "criteria": {
+      "has_block": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/soul_stone": {
+    "criteria": {
+      "has_magma_stone": "2025-11-18 21:41:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/daemonium_sewing_kit": {
+    "criteria": {
+      "has_daemonium_chunk": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/metal_ruler": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/apple_core": {
+    "criteria": {
+      "has_daemonium_chunk": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/noir_chestplate": {
+    "criteria": {
+      "has_black_matter": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_lead_to_raw_block_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-11-18 21:11:23 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/scribes_index": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/crimson_delight": {
+    "criteria": {
+      "has_ruby": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_moulding": {
+    "criteria": {
+      "has_block": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/dunked_donut": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/void_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/meloncholy": {
+    "criteria": {
+      "has_daemonium_chunk": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/dumbbell": {
+    "criteria": {
+      "has_daemonium": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/quantite_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/perfume_bottle": {
+    "criteria": {
+      "has_rubby": "2025-11-18 21:36:17 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_column": {
+    "criteria": {
+      "has_block": "2025-11-18 21:34:10 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/black_seal": {
+    "criteria": {
+      "has_occult_fabric": "2025-11-18 21:32:26 +0100"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-11-18 21:36:17 +0100"
     },
     "done": true
   },
