@@ -744,10 +744,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-11-24 21:14:40 +0100",
       "minecraft:deep_ocean": "2025-11-14 22:38:44 +0100",
       "minecraft:beach": "2025-11-11 21:54:51 +0100",
       "minecraft:river": "2025-11-11 22:31:00 +0100",
       "minecraft:stony_shore": "2025-11-11 23:08:26 +0100",
+      "minecraft:snowy_plains": "2025-11-24 21:11:08 +0100",
       "minecraft:dripstone_caves": "2025-11-11 22:16:36 +0100",
       "minecraft:cold_ocean": "2025-11-12 21:25:26 +0100",
       "minecraft:lush_caves": "2025-11-12 22:47:40 +0100",
@@ -21925,6 +21927,7 @@
   "vintagevibes:all_masks": {
     "criteria": {
       "celestial_mask": "2025-11-23 19:28:50 +0100",
+      "festive_mask": "2025-11-24 21:08:45 +0100",
       "volcanic_mask": "2025-11-23 19:28:46 +0100"
     },
     "done": false
@@ -22433,171 +22436,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-11-23 21:01:31 +0100"
-    },
-    "done": false
-  },
-  "netherexp:recipes/misc/skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-11-23 20:14:44 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-11-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-11-23 20:37:21 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2025-11-23 20:12:13 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-11-23 20:06:49 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
-    },
-    "done": true
-  },
-  "mythsandlegends:recipes/misc/altar_of_the_dead": {
-    "criteria": {
-      "skeleton_skull": "2025-11-23 20:14:44 +0100"
-    },
-    "done": true
-  },
-  "hexalia:recipes/decorations/candle_skull": {
-    "criteria": {
-      "has_skeleton_skull": "2025-11-23 20:14:44 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/creeper_head": {
-    "criteria": {
-      "has_creeper_head": "2025-11-23 20:12:13 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-11-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/bio_forging/skeleton_skull": {
-    "criteria": {
-      "has_skeleton_skull": "2025-11-23 20:14:44 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/gold_chest": {
     "criteria": {
       "has_iron_chest": "2025-11-23 20:06:37 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_tool": {
-    "criteria": {
-      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
     },
     "done": true
   },
@@ -22607,9 +22448,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/netherite_chest": {
+  "sophisticatedstorage:recipes/misc/double_gold_chest": {
     "criteria": {
-      "has_diamond_chest": "2025-11-23 20:07:05 +0100"
+      "has_iron_chest": "2025-11-23 20:06:37 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-11-23 20:06:49 +0100"
     },
     "done": true
   },
@@ -22625,6 +22472,66 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-11-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-11-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-11-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/ichor_bottle": {
+    "criteria": {
+      "has_items": "2025-11-23 20:11:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-11-23 20:12:13 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/creeper_head": {
+    "criteria": {
+      "has_creeper_head": "2025-11-23 20:12:13 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-11-23 20:14:44 +0100"
+    },
+    "done": true
+  },
+  "mythsandlegends:recipes/misc/altar_of_the_dead": {
+    "criteria": {
+      "skeleton_skull": "2025-11-23 20:14:44 +0100"
+    },
+    "done": true
+  },
+  "hexalia:recipes/decorations/candle_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2025-11-23 20:14:44 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2025-11-23 20:14:44 +0100"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/skull_on_a_stick": {
     "criteria": {
       "item": "2025-11-23 20:14:44 +0100"
@@ -22634,6 +22541,48 @@
   "biomancy:recipes/biomancy/bio_forging/piglin_head": {
     "criteria": {
       "has_skeleton_skull": "2025-11-23 20:14:44 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2025-11-23 20:14:44 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/player_head": {
+    "criteria": {
+      "has_skeleton_skull": "2025-11-23 20:14:44 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-11-23 20:31:25 +0100"
     },
     "done": true
   },
@@ -22649,12 +22598,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_gold_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-11-23 20:06:37 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-11-23 20:31:25 +0100"
@@ -22667,29 +22610,377 @@
     },
     "done": true
   },
-  "enigmaticlegacy:book/relics/ichor_bottle": {
-    "criteria": {
-      "has_items": "2025-11-23 20:11:40 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/skeleton_skull": {
-    "criteria": {
-      "has_skeleton_skull": "2025-11-23 20:14:44 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-11-23 20:31:25 +0100"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/bio_forging/player_head": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_skeleton_skull": "2025-11-23 20:14:44 +0100"
+      "has_item_frame": "2025-11-23 20:37:21 +0100"
     },
     "done": true
+  },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2025-11-24 20:40:25 +0100"
+    },
+    "done": true
+  },
+  "ancient_elements:beneath_the_bedrock": {
+    "criteria": {
+      "beneath_the_bedrock": "2025-11-24 20:44:45 +0100"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-11-24 20:54:01 +0100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-11-24 21:07:38 +0100"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_inscriber": {
+    "criteria": {
+      "has_recipe_result": "2025-11-24 21:08:45 +0100"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-11-24 21:08:45 +0100"
+    },
+    "done": true
+  },
+  "enigmaticaddons:recipes/generic/legacy/unwitnessed_amulet": {
+    "criteria": {
+      "has_items": "2025-11-24 21:11:23 +0100"
+    },
+    "done": true
+  },
+  "enigmaticaddons:recipes/generic/legacy/earth_heart": {
+    "criteria": {
+      "has_items": "2025-11-24 21:11:23 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/icicle_block": {
+    "criteria": {
+      "has_icicles": "2025-11-24 21:12:04 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/ice_chain": {
+    "criteria": {
+      "has_icicles": "2025-11-24 21:12:04 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/icicle_trapdoor": {
+    "criteria": {
+      "has_icicles": "2025-11-24 21:12:04 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/icicle_door": {
+    "criteria": {
+      "has_icicles": "2025-11-24 21:12:04 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/ice_lantern": {
+    "criteria": {
+      "has_icicles": "2025-11-24 21:12:04 +0100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-11-24 21:12:58 +0100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-11-24 21:14:30 +0100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-11-24 21:14:30 +0100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-11-24 21:14:30 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_ice_bricks_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "brutality:recipes/combat/winter_melon": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_ice_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/blue_ice_from_packed_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_pillar_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_bricks": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_brick_stairs_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_brick_slab_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_from_packed_ice_slab_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_from_packed_ice_brick_wall_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_ice_slab_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_brick_wall_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_from_packed_ice_bricks_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_from_packed_ice_brick_slab_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_from_packed_ice_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_tile_slab_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_slab": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_bricks": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_tiles_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_from_packed_ice_stairs_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_tile_wall_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_stairs": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_from_chiseled_packed_ice_bricks_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_tile_stairs_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/ice_bricks_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/polished_ice_stairs_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_ice_tiles_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-11-24 21:15:00 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-11-24 21:16:36 +0100"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-11-24 21:22:29 +0100"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
