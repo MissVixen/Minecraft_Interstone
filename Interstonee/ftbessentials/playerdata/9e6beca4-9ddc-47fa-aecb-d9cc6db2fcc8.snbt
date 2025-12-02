@@ -3,18 +3,15 @@
 	fly: false
 	god: false
 	nick: "Leti"
-	last_seen: { dim: "minecraft:overworld", x: -1708, y: 150, z: 216, time: 1764625273789L, xRot: 11.635779f, yRot: 4.6765747f }
+	last_seen: { dim: "minecraft:overworld", x: -198, y: 42, z: 72, time: 1764710141790L, xRot: 11.3204f, yRot: -27.35321f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: -224, y: 34, z: 75, time: 1764280593241L, xRot: 6.094968f, yRot: -4.459076f }
 		{ dim: "minecraft:overworld", x: -232, y: 64, z: 176, time: 1764280655811L, xRot: 9.41922f, yRot: -34.81546f }
 		{ dim: "minecraft:overworld", x: -217, y: 36, z: 93, time: 1764620580756L, xRot: -9.1032715f, yRot: 83.688354f }
 		{ dim: "minecraft:overworld", x: -222, y: 64, z: 183, time: 1764620705379L }
 		{ dim: "minecraft:overworld", x: -230, y: 35, z: 81, time: 1764620709416L, xRot: 0.92347914f, yRot: -0.36939165f }
 		{ dim: "minecraft:overworld", x: -216, y: 64, z: 163, time: 1764623280845L }
 		{ dim: "minecraft:overworld", x: -215, y: 34, z: 78, time: 1764623283655L, xRot: -3.6939151f, yRot: 4.6173954f }
-		{ dim: "minecraft:overworld", x: -205, y: 64, z: 167, time: 1764624333106L, xRot: 0.69978523f, yRot: -140.88025f }
-		{ dim: "minecraft:overworld", x: -1730, y: 61, z: 301, time: 1764624375561L, xRot: 5.6868963f, yRot: -106.989845f }
 	]
 	homes: {
 		home: { dim: "minecraft:overworld", x: -225, y: 64, z: 166, time: 1762461706111L, xRot: 12.097197f, yRot: 104.38458f }

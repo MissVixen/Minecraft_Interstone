@@ -1224,6 +1224,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-12-02 22:55:52 +0100",
+      "minecraft:taiga": "2025-12-02 22:48:36 +0100",
       "minecraft:deep_ocean": "2025-11-12 21:23:09 +0100",
       "minecraft:frozen_river": "2025-11-27 22:37:44 +0100",
       "minecraft:sunflower_plains": "2025-11-12 22:08:09 +0100",
@@ -1239,6 +1241,7 @@
       "minecraft:cold_ocean": "2025-11-12 21:25:25 +0100",
       "minecraft:forest": "2025-11-12 21:28:36 +0100",
       "minecraft:deep_cold_ocean": "2025-11-14 22:44:44 +0100",
+      "minecraft:ice_spikes": "2025-12-02 22:55:10 +0100",
       "minecraft:jungle": "2025-11-12 22:10:29 +0100",
       "minecraft:ocean": "2025-11-12 21:22:00 +0100",
       "minecraft:old_growth_birch_forest": "2025-11-24 21:25:25 +0100",
@@ -7043,7 +7046,8 @@
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
       "has_raw_mutton": "2025-11-11 22:27:22 +0100",
-      "has_raw_porkchop": "2025-11-21 23:57:45 +0100"
+      "has_raw_porkchop": "2025-11-21 23:57:45 +0100",
+      "has_raw_chicken": "2025-12-02 21:05:05 +0100"
     },
     "done": false
   },
@@ -22694,93 +22698,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:42:00 +0100"
-    },
-    "done": false
-  },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
-    "criteria": {
-      "scroll_forge": "2025-12-01 21:51:13 +0100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2025-12-01 22:33:15 +0100"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-12-01 21:58:31 +0100"
+      "arcane_anvil": "2025-12-01 21:31:51 +0100"
     },
     "done": true
   },
@@ -22796,57 +22716,9 @@
     },
     "done": true
   },
-  "skyarena:difficulty_level_1": {
-    "criteria": {
-      "difficulty_level_1": "2025-12-01 22:26:59 +0100"
-    },
-    "done": true
-  },
-  "skyarena:difficulty_level_5": {
-    "criteria": {
-      "difficulty_level_5": "2025-12-01 22:32:54 +0100"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/soul_torch_lever": {
-    "criteria": {
-      "has_thing": "2025-12-01 21:58:31 +0100"
-    },
-    "done": true
-  },
-  "skyarena:ice_arena": {
-    "criteria": {
-      "common": "2025-12-01 22:24:24 +0100"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
-    "criteria": {
-      "arcane_anvil": "2025-12-01 21:31:51 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-12-01 21:38:50 +0100"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/smokestack_woodburner": {
     "criteria": {
       "has_item": "2025-12-01 21:38:43 +0100"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2025-12-01 22:40:36 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-12-01 21:58:31 +0100"
     },
     "done": true
   },
@@ -22856,39 +22728,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-12-01 21:58:31 +0100"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-12-01 21:58:31 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/volatile_gland": {
-    "criteria": {
-      "has_volatile_gland": "2025-12-01 21:51:50 +0100"
-    },
-    "done": true
-  },
-  "tameablebeasts:purple_allay": {
-    "criteria": {
-      "obtain_purple_allay": "2025-12-01 22:27:35 +0100"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/smokestack_streamlined": {
     "criteria": {
       "has_item": "2025-12-01 21:38:43 +0100"
-    },
-    "done": true
-  },
-  "rubinated_nether:recipes/misc/pale_soul_slate_from_soul_sand": {
-    "criteria": {
-      "has_soul_sand": "2025-12-01 21:58:31 +0100"
     },
     "done": true
   },
@@ -22898,88 +22740,15 @@
     },
     "done": true
   },
-  "ancient_elements:can_someone_ventilate": {
-    "criteria": {
-      "can_someone_ventilate": "2025-12-01 22:28:44 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/soul_sandstone_from_soul_sand": {
-    "criteria": {
-      "has_soul_sand": "2025-12-01 21:58:31 +0100"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2025-12-01 21:58:31 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/mob_marrow": {
-    "criteria": {
-      "has_mob_marrow": "2025-12-01 22:33:44 +0100"
-    },
-    "done": true
-  },
-  "goety:goety/kill_a_border_wraith": {
-    "criteria": {
-      "kill_a_wraith": "2025-12-01 22:36:22 +0100"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-12-01 21:58:31 +0100"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:guidetothenextworld": {
-    "criteria": {
-      "guidetothenextworld_0": "2025-12-01 22:30:12 +0100"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/smokestack_diesel": {
     "criteria": {
       "has_item": "2025-12-01 21:38:43 +0100"
     },
     "done": true
   },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-12-01 22:38:19 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-12-01 21:58:31 +0100"
-    },
-    "done": true
-  },
-  "goety:goety/kill_hunting_illagers": {
-    "criteria": {
-      "inquillager": "2025-12-01 22:36:56 +0100",
-      "conquillager": "2025-12-01 22:27:35 +0100"
-    },
-    "done": false
-  },
-  "nethers_exorcism_reborn:encounter_strampler": {
-    "criteria": {
-      "encounter_strampler_0": "2025-12-01 22:39:01 +0100"
-    },
-    "done": true
-  },
   "mynethersdelight:recipes/misc/crafting/nethers_stove": {
     "criteria": {
       "has_campfire": "2025-12-01 21:38:43 +0100"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/soul_torch_button": {
-    "criteria": {
-      "has_thing": "2025-12-01 21:58:31 +0100"
     },
     "done": true
   },
@@ -22995,9 +22764,93 @@
     },
     "done": true
   },
-  "skyarena:use_altar_battle": {
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
     "criteria": {
-      "use_altar_battle": "2025-12-01 22:25:59 +0100"
+      "has_item": "2025-12-01 21:38:43 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-12-01 21:38:50 +0100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-12-01 21:51:13 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/volatile_gland": {
+    "criteria": {
+      "has_volatile_gland": "2025-12-01 21:51:50 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/soul_torch_lever": {
+    "criteria": {
+      "has_thing": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/pale_soul_slate_from_soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/soul_sandstone_from_soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/soul_torch_button": {
+    "criteria": {
+      "has_thing": "2025-12-01 21:58:31 +0100"
     },
     "done": true
   },
@@ -23007,9 +22860,70 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+  "netherexp:recipes/misc/soul_candle": {
     "criteria": {
-      "has_item": "2025-12-01 21:38:43 +0100"
+      "has_planks": "2025-12-01 21:58:31 +0100"
+    },
+    "done": true
+  },
+  "skyarena:ice_arena": {
+    "criteria": {
+      "common": "2025-12-01 22:24:24 +0100"
+    },
+    "done": true
+  },
+  "skyarena:use_altar_battle": {
+    "criteria": {
+      "use_altar_battle": "2025-12-01 22:25:59 +0100"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_1": {
+    "criteria": {
+      "difficulty_level_1": "2025-12-01 22:26:59 +0100"
+    },
+    "done": true
+  },
+  "tameablebeasts:purple_allay": {
+    "criteria": {
+      "obtain_purple_allay": "2025-12-01 22:27:35 +0100"
+    },
+    "done": true
+  },
+  "goety:goety/kill_hunting_illagers": {
+    "criteria": {
+      "inquillager": "2025-12-01 22:36:56 +0100",
+      "conquillager": "2025-12-01 22:27:35 +0100"
+    },
+    "done": false
+  },
+  "ancient_elements:can_someone_ventilate": {
+    "criteria": {
+      "can_someone_ventilate": "2025-12-01 22:28:44 +0100"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-12-01 22:30:12 +0100"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_5": {
+    "criteria": {
+      "difficulty_level_5": "2025-12-01 22:32:54 +0100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-12-01 22:33:15 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mob_marrow": {
+    "criteria": {
+      "has_mob_marrow": "2025-12-01 22:33:44 +0100"
     },
     "done": true
   },
@@ -23019,15 +22933,543 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_candle": {
+  "goety:goety/kill_a_border_wraith": {
     "criteria": {
-      "has_planks": "2025-12-01 21:58:31 +0100"
+      "kill_a_wraith": "2025-12-01 22:36:22 +0100"
     },
     "done": true
   },
   "skyarena:difficulty_level_10": {
     "criteria": {
       "difficulty_level_10": "2025-12-01 22:36:39 +0100"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-12-01 22:38:19 +0100"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:encounter_strampler": {
+    "criteria": {
+      "encounter_strampler_0": "2025-12-01 22:39:01 +0100"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-12-01 22:40:36 +0100"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "moresnifferflowers:recipes/transportation/vivicus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/stripped_spruce_log_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "bushierflowers:recipes/grown_lily": {
+    "criteria": {
+      "has_lily": "2025-12-02 21:33:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-12-02 21:33:23 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2025-12-02 22:13:10 +0100"
+    },
+    "done": true
+  },
+  "arts_and_crafts:recipes/transportation/cork_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "hexalia:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-12-02 21:32:08 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-12-02 21:05:05 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2025-12-02 22:47:14 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_stripped_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-12-02 21:05:05 +0100"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chicken": {
+    "criteria": {
+      "has_chicken": "2025-12-02 21:05:05 +0100"
+    },
+    "done": true
+  },
+  "hexalia:recipes/transportation/cottonwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-12-02 21:05:05 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-12-02 21:33:23 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/withered_mob_marrow": {
+    "criteria": {
+      "has_withered_mob_marrow": "2025-12-02 21:08:30 +0100"
+    },
+    "done": true
+  },
+  "endergetic:recipes/transportation/poise_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-12-02 21:33:23 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/transportation/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_pallet": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "dungeonsdelight:recipes/transportation/wormwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/smogstem_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_leaves": {
+    "criteria": {
+      "has_leaves": "2025-12-02 22:47:14 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/misc/rose_flower_banner_pattern": {
+    "criteria": {
+      "has_roses": "2025-12-02 21:32:08 +0100"
+    },
+    "done": true
+  },
+  "moresnifferflowers:recipes/transportation/corrupted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-12-02 21:32:08 +0100"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_beam": {
+    "criteria": {
+      "has_log": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_frame": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_wall": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-12-02 23:08:20 +0100"
     },
     "done": true
   },
