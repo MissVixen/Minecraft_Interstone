@@ -23813,81 +23813,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "ecologics:recipes/ecologics/coconut_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
+      "has_logs": "2025-12-02 22:43:07 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "ecologics:recipes/ecologics/coconut_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 23:09:58 +0100"
-    },
-    "done": false
-  },
-  "biomancy:recipes/biomancy/decomposing/kelp": {
-    "criteria": {
-      "has_kelp": "2025-12-02 22:44:23 +0100"
+      "has_log": "2025-12-02 22:43:07 +0100"
     },
     "done": true
   },
@@ -23897,33 +23831,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/bio_forging/nautilus_shell": {
-    "criteria": {
-      "has_nautilus_shell": "2025-12-02 23:01:38 +0100"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/coconut_planks": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:43:07 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-12-02 22:58:47 +0100"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/coconut_pressure_plate": {
     "criteria": {
       "has_planks": "2025-12-02 22:43:11 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-12-02 22:44:23 +0100"
     },
     "done": true
   },
@@ -23939,45 +23849,57 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/nautilus_shell": {
-    "criteria": {
-      "has_nautilus_shell": "2025-12-02 23:01:38 +0100"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/cherry_blossom_cookie": {
-    "criteria": {
-      "has_pink_petals": "2025-12-02 22:58:47 +0100"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/coconut_button": {
     "criteria": {
       "has_planks": "2025-12-02 22:43:11 +0100"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_kelp": {
+  "supplementaries:recipes/decorations/ecologics/sign_post_coconut": {
+    "criteria": {
+      "has_item": "2025-12-02 22:43:11 +0100"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_slab": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:43:11 +0100"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:43:11 +0100"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_sign": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:43:11 +0100"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_fence": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:43:11 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/kelp": {
     "criteria": {
       "has_kelp": "2025-12-02 22:44:23 +0100"
     },
     "done": true
   },
-  "rusticdelight:recipes/food/cherry_blossom_roll": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_pink_petals": "2025-12-02 22:58:47 +0100"
+      "has_kelp": "2025-12-02 22:44:23 +0100"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/coconut_wood": {
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_kelp": {
     "criteria": {
-      "has_log": "2025-12-02 22:43:07 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-12-02 22:58:47 +0100"
+      "has_kelp": "2025-12-02 22:44:23 +0100"
     },
     "done": true
   },
@@ -23999,27 +23921,27 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/ecologics/sign_post_coconut": {
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
     "criteria": {
-      "has_item": "2025-12-02 22:43:11 +0100"
+      "has_pink_petals": "2025-12-02 22:58:47 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "rusticdelight:recipes/food/cherry_blossom_cookie": {
     "criteria": {
-      "has_nautilus_shell": "2025-12-02 23:01:38 +0100"
+      "has_pink_petals": "2025-12-02 22:58:47 +0100"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/coconut_slab": {
+  "rusticdelight:recipes/food/cherry_blossom_roll": {
     "criteria": {
-      "has_planks": "2025-12-02 22:43:11 +0100"
+      "has_pink_petals": "2025-12-02 22:58:47 +0100"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/coconut_fence_gate": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "has_planks": "2025-12-02 22:43:11 +0100"
+      "has_pink_petals": "2025-12-02 22:58:47 +0100"
     },
     "done": true
   },
@@ -24029,15 +23951,453 @@
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/coconut_sign": {
+  "biomancy:recipes/biomancy/bio_forging/nautilus_shell": {
     "criteria": {
-      "has_planks": "2025-12-02 22:43:11 +0100"
+      "has_nautilus_shell": "2025-12-02 23:01:38 +0100"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/coconut_fence": {
+  "biomancy:recipes/biomancy/decomposing/nautilus_shell": {
     "criteria": {
-      "has_planks": "2025-12-02 22:43:11 +0100"
+      "has_nautilus_shell": "2025-12-02 23:01:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-12-02 23:01:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_wall": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_pallet": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_beam": {
+    "criteria": {
+      "has_log": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_frame": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:37:32 +0100"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry_planks": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_trim": {
+    "criteria": {
+      "has_block": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-12-03 23:54:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_support": {
+    "criteria": {
+      "has_block": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-12-04 00:03:58 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cherry_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-12-04 00:03:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_barrel": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_layer": {
+    "criteria": {
+      "has_block": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_ladder": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_1": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_3": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_2": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_4": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cherry_large_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_chest": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-03 23:47:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_storage_connector": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 23:47:33 +0100"
     },
     "done": true
   },

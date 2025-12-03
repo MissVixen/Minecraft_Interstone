@@ -20056,82 +20056,171 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "simplymore:lustrous_moxie": {
     "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-12-01 22:40:12 +0100",
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
+      "requirement": "2025-12-01 21:26:51 +0100"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "infinitybuttons:first_button": {
     "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
+      "buttons": "2025-12-01 21:34:14 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "windswept:recipes/building_blocks/snow_brick_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
+      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "windswept:recipes/building_blocks/snow_bricks_from_snow_brick_wall_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
+      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "windswept:recipes/building_blocks/snow_brick_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
+      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "windswept:recipes/building_blocks/snow_brick_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
+      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "windswept:recipes/building_blocks/snow_bricks_from_snow_brick_stairs_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
+      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "windswept:recipes/building_blocks/snow_bricks_from_snow_brick_slab_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-12-01 22:40:00 +0100"
+      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
     },
-    "done": false
+    "done": true
   },
-  "create:recipes/misc/crafting/kinetics/chute": {
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2025-12-01 21:55:01 +0100"
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mud_tiles_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mud_tile_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mud_bricks": {
+    "criteria": {
+      "has_planks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mud_brick_layer": {
+    "criteria": {
+      "has_block": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mud_tiles": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mud_tile_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mud_tile_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/mud": {
+    "criteria": {
+      "has_planks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_mud_bricks_from_vine": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/mud_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_mud_bricks": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mud_pillar": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_mud_bricks_from_moss_block": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_mud_tiles_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
     },
     "done": true
   },
@@ -20147,6 +20236,222 @@
     },
     "done": true
   },
+  "somemoreblocks:recipes/building_blocks/magenta_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_urn": {
+    "criteria": {
+      "has_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/light_blue_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/yellow_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/lime_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/black_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/orange_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/purple_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/light_gray_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/green_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/white_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/brown_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/red_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "vintagevibes:recipes/building_blocks/quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/gray_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/quartz": {
+    "criteria": {
+      "has_planks": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_cut_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_layer": {
+    "criteria": {
+      "has_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/pink_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/blue_checkered_tiles": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_fence": {
+    "criteria": {
+      "has_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cut_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-12-01 21:43:08 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-12-01 21:43:25 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2025-12-01 21:55:01 +0100"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
@@ -20156,18 +20461,6 @@
   "createdeco:recipes/decorations/red_andesite_lamp": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2025-12-01 22:28:11 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
     },
     "done": true
   },
@@ -20183,39 +20476,15 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/magenta_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
     },
     "done": true
   },
-  "mythsandlegends:echo_in_the_frost": {
-    "criteria": {
-      "kill_echo_in_the_frost": "2025-12-01 22:29:49 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/andesite_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/quartz_urn": {
-    "criteria": {
-      "has_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/light_blue_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -20234,12 +20503,6 @@
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -20264,12 +20527,6 @@
   "createdeco:recipes/decorations/andesite_trapdoor": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/yellow_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -20303,12 +20560,6 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/lime_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
@@ -20321,30 +20572,6 @@
     },
     "done": true
   },
-  "skyarena:ice_arena": {
-    "criteria": {
-      "common": "2025-12-01 22:25:30 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/mud_tiles_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/black_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
@@ -20354,24 +20581,6 @@
   "create:recipes/misc/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/mud_tile_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/mud_bricks": {
-    "criteria": {
-      "has_planks": "2025-12-01 21:37:10 +0100"
     },
     "done": true
   },
@@ -20393,63 +20602,15 @@
     },
     "done": true
   },
-  "bbb:recipes/mud_brick_layer": {
-    "criteria": {
-      "has_block": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2025-12-01 22:05:49 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/mud_tiles": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/andesite_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
     },
     "done": true
   },
-  "windswept:recipes/building_blocks/snow_brick_slab": {
-    "criteria": {
-      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/mud_tile_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/andesite_facade_from_stonecutting": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/orange_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -20465,12 +20626,6 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/purple_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-12-01 21:55:01 +0100"
@@ -20480,12 +20635,6 @@
   "createdeco:recipes/decorations/andesite_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/light_gray_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -20513,21 +20662,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "windswept:recipes/building_blocks/snow_bricks_from_snow_brick_wall_stonecutting": {
-    "criteria": {
-      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
     },
     "done": true
   },
@@ -20546,12 +20683,6 @@
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/green_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -20585,42 +20716,6 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/volatile_gland": {
-    "criteria": {
-      "has_volatile_gland": "2025-12-01 22:35:49 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/white_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "tameablebeasts:purple_allay": {
-    "criteria": {
-      "obtain_purple_allay": "2025-12-01 22:35:56 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/mud_tile_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
-  "windswept:recipes/building_blocks/snow_brick_stairs": {
-    "criteria": {
-      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/andesite_support_wedge_from_stonecutting": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
@@ -20639,24 +20734,6 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/brown_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "windswept:recipes/building_blocks/snow_brick_wall": {
-    "criteria": {
-      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/mud": {
-    "criteria": {
-      "has_planks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
   "rubinated_nether:recipes/misc/pale_soul_slate_from_soul_sand": {
     "criteria": {
       "has_soul_sand": "2025-12-01 21:55:01 +0100"
@@ -20669,39 +20746,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/red_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "simplymore:lustrous_moxie": {
-    "criteria": {
-      "requirement": "2025-12-01 21:26:51 +0100"
-    },
-    "done": true
-  },
-  "windswept:recipes/building_blocks/snow_bricks_from_snow_brick_stairs_stonecutting": {
-    "criteria": {
-      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
     },
     "done": true
   },
@@ -20729,12 +20776,6 @@
     },
     "done": true
   },
-  "vintagevibes:recipes/building_blocks/quartz_tiles_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
@@ -20750,12 +20791,6 @@
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/gray_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -20777,45 +20812,9 @@
     },
     "done": true
   },
-  "mcwstairs:recipes/quartz": {
-    "criteria": {
-      "has_planks": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:apprentice_spell_book": {
-    "criteria": {
-      "has_apprentice_spell_book": "2025-12-01 21:43:25 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/mossy_mud_bricks_from_vine": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/mud_brick_secret_button": {
-    "criteria": {
-      "has_thing": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2025-12-01 22:33:42 +0100"
     },
     "done": true
   },
@@ -20825,39 +20824,9 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/cracked_cut_quartz_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "windswept:recipes/building_blocks/snow_bricks_from_snow_brick_slab_stonecutting": {
-    "criteria": {
-      "has_snow_bricks": "2025-12-01 21:35:04 +0100"
-    },
-    "done": true
-  },
-  "goety:goety/kill_a_border_wraith": {
-    "criteria": {
-      "kill_a_wraith": "2025-12-01 22:32:29 +0100"
     },
     "done": true
   },
@@ -20870,12 +20839,6 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/plate": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -20915,39 +20878,9 @@
     },
     "done": true
   },
-  "bbb:recipes/quartz_layer": {
-    "criteria": {
-      "has_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/andesite_door": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/pink_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:guidetothenextworld": {
-    "criteria": {
-      "guidetothenextworld_0": "2025-12-01 22:30:17 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -20969,12 +20902,6 @@
     },
     "done": true
   },
-  "goety:goety/kill_hunting_illagers": {
-    "criteria": {
-      "conquillager": "2025-12-01 22:36:04 +0100"
-    },
-    "done": false
-  },
   "createdeco:recipes/decorations/andesite_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
@@ -20987,27 +20914,9 @@
     },
     "done": true
   },
-  "infinitybuttons:first_button": {
-    "criteria": {
-      "buttons": "2025-12-01 21:34:14 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "nethers_exorcism_reborn:encounter_strampler": {
-    "criteria": {
-      "encounter_strampler_0": "2025-12-01 22:39:00 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cracked_mud_bricks": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
     },
     "done": true
   },
@@ -21020,18 +20929,6 @@
   "createdeco:recipes/decorations/green_andesite_lamp": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/blue_checkered_tiles": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/mud_pillar": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
     },
     "done": true
   },
@@ -21071,45 +20968,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/controller_rail": {
-    "criteria": {
-      "has_item": "2025-12-01 22:03:07 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/quartz_fence": {
-    "criteria": {
-      "has_block": "2025-12-01 21:43:08 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/mossy_mud_bricks_from_moss_block": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -21125,12 +20992,6 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/cracked_mud_tiles_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-12-01 21:37:10 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
@@ -21140,12 +21001,6 @@
   "createdeco:recipes/building_blocks/andesite_window": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cut_quartz_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-12-01 21:43:08 +0100"
     },
     "done": true
   },
@@ -21170,6 +21025,972 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-12-01 21:55:01 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-12-01 22:03:07 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-12-01 22:05:49 +0100"
+    },
+    "done": true
+  },
+  "skyarena:ice_arena": {
+    "criteria": {
+      "common": "2025-12-01 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-12-01 22:28:11 +0100"
+    },
+    "done": true
+  },
+  "mythsandlegends:echo_in_the_frost": {
+    "criteria": {
+      "kill_echo_in_the_frost": "2025-12-01 22:29:49 +0100"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-12-01 22:30:17 +0100"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_border_wraith": {
+    "criteria": {
+      "kill_a_wraith": "2025-12-01 22:32:29 +0100"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-12-01 22:33:42 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/volatile_gland": {
+    "criteria": {
+      "has_volatile_gland": "2025-12-01 22:35:49 +0100"
+    },
+    "done": true
+  },
+  "tameablebeasts:purple_allay": {
+    "criteria": {
+      "obtain_purple_allay": "2025-12-01 22:35:56 +0100"
+    },
+    "done": true
+  },
+  "goety:goety/kill_hunting_illagers": {
+    "criteria": {
+      "conquillager": "2025-12-01 22:36:04 +0100"
+    },
+    "done": false
+  },
+  "nethers_exorcism_reborn:encounter_strampler": {
+    "criteria": {
+      "encounter_strampler_0": "2025-12-01 22:39:00 +0100"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_slab_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-12-03 21:18:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_bricks_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/stripped_mangrove_log_from_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry_planks": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_4": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_3": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_2": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_1": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_trim": {
+    "criteria": {
+      "has_block": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/mangrove_large_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "armageddon_mod:emerald_totem_avancement": {
+    "criteria": {
+      "emerald_totem_avancement_0": "2025-12-03 21:58:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/barrel_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_bone_tiles_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_pallet": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_storage_connector": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_frame": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_support": {
+    "criteria": {
+      "has_block": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "armageddon_mod:zoranth_relic_advancment": {
+    "criteria": {
+      "zoranth_relic_advancment_0": "2025-12-03 21:58:32 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/chest_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_door_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cherry_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/chiseled_stone_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:13:47 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_barrel": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_bone_bricks_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_cookie": {
+    "criteria": {
+      "has_cherry_sapling": "2025-12-03 22:05:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_layer": {
+    "criteria": {
+      "has_block": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_barrel": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_beam": {
+    "criteria": {
+      "has_log": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/mangrove_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_wall": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "armageddon_mod:builder_stone_advancement": {
+    "criteria": {
+      "builder_stone_advancement_0": "2025-12-03 21:58:24 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_trapdoor_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_roll": {
+    "criteria": {
+      "has_cherry_sapling": "2025-12-03 22:05:24 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_ladder": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/crafting_table_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_1": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_3": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_2": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_4": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tiles_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/coarse_dirt": {
+    "criteria": {
+      "has_coarse_dirt": "2025-12-03 21:15:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_gate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tile_stairs_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_trim": {
+    "criteria": {
+      "has_block": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cherry_large_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_brick_slab_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_bricks": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tile_wall_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_chest": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_mangrove": {
+    "criteria": {
+      "has_item": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_layer": {
+    "criteria": {
+      "has_block": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_ladder": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tile_slab_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "skyarena:use_altar_battle": {
+    "criteria": {
+      "use_altar_battle": "2025-12-03 21:02:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_brick_stairs_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_support": {
+    "criteria": {
+      "has_block": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_brick_wall_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-12-03 21:18:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_chest": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_swamp": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_muck_wraith": {
+    "criteria": {
+      "kill_a_wraith": "2025-12-03 21:02:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "species:recipes/bone_bark": {
+    "criteria": {
+      "has_item": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "species:recipes/bone_vertebra": {
+    "criteria": {
+      "has_item": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_storage_connector": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },

@@ -22963,77 +22963,95 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_chicken": "2025-12-02 21:05:05 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_chicken": "2025-12-02 21:05:05 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "biomancy:recipes/biomancy/decomposing/chicken": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_chicken": "2025-12-02 21:05:05 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_chicken": "2025-12-02 21:05:05 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "biomancy:recipes/biomancy/decomposing/withered_mob_marrow": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_withered_mob_marrow": "2025-12-02 21:08:30 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_rose_bush": "2025-12-02 21:32:08 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "windswept:recipes/misc/rose_flower_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_roses": "2025-12-02 21:32:08 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_rose_bush": "2025-12-02 21:32:08 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "bushierflowers:recipes/grown_lily": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_lily": "2025-12-02 21:33:23 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_lily_of_the_valley": "2025-12-02 21:33:23 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_lily_of_the_valley": "2025-12-02 21:33:23 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "biomancy:recipes/biomancy/decomposing/lily_of_the_valley": {
     "criteria": {
-      "log_spam_fixer": "2025-12-02 23:29:57 +0100"
+      "has_lily_of_the_valley": "2025-12-02 21:33:23 +0100"
     },
-    "done": false
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2025-12-02 22:13:10 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2025-12-02 22:47:14 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_leaves": {
+    "criteria": {
+      "has_leaves": "2025-12-02 22:47:14 +0100"
+    },
+    "done": true
   },
   "mcwroofs:recipes/spruce": {
     "criteria": {
@@ -23044,6 +23062,180 @@
   "mcwtrpdoors:recipes/print_cottage": {
     "criteria": {
       "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/stripped_spruce_log_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:48:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_stripped_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_pallet": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_beam": {
+    "criteria": {
+      "has_log": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_frame": {
+    "criteria": {
+      "has_planks": "2025-12-02 22:56:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_wall": {
+    "criteria": {
+      "has_logs": "2025-12-02 22:56:50 +0100"
     },
     "done": true
   },
@@ -23071,51 +23263,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:56:50 +0100"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-12-02 23:08:20 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/stripped_spruce_log_from_spruce_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "bushierflowers:recipes/grown_lily": {
-    "criteria": {
-      "has_lily": "2025-12-02 21:33:23 +0100"
     },
     "done": true
   },
@@ -23125,33 +23275,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-12-02 21:33:23 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tame_raycat": {
-    "criteria": {
-      "killed": "2025-12-02 22:13:10 +0100"
-    },
-    "done": true
-  },
   "arts_and_crafts:recipes/transportation/cork_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-02 23:08:20 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
     },
     "done": true
   },
@@ -23164,42 +23290,6 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-12-02 23:08:20 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-12-02 21:32:08 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-12-02 21:05:05 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
-    "criteria": {
-      "has_oak_leaves": "2025-12-02 22:47:14 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
     },
     "done": true
   },
@@ -23221,45 +23311,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_planks_from_stripped_birch_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-02 22:56:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-12-02 21:05:05 +0100"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-02 23:08:20 +0100"
     },
     "done": true
   },
-  "mcwstairs:recipes/spruce": {
-    "criteria": {
-      "has_planks": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-02 23:08:20 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/chicken": {
-    "criteria": {
-      "has_chicken": "2025-12-02 21:05:05 +0100"
     },
     "done": true
   },
@@ -23281,45 +23341,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-12-02 21:05:05 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-12-02 21:33:23 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/withered_mob_marrow": {
-    "criteria": {
-      "has_withered_mob_marrow": "2025-12-02 21:08:30 +0100"
-    },
-    "done": true
-  },
   "endergetic:recipes/transportation/poise_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-02 23:08:20 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-12-02 21:33:23 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-12-02 22:48:51 +0100"
     },
     "done": true
   },
@@ -23335,12 +23359,6 @@
     },
     "done": true
   },
-  "bbb:recipes/birch_pallet": {
-    "criteria": {
-      "has_planks": "2025-12-02 22:56:50 +0100"
-    },
-    "done": true
-  },
   "dungeonsdelight:recipes/transportation/wormwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-02 23:08:20 +0100"
@@ -23350,30 +23368,6 @@
   "undergarden:recipes/transportation/smogstem_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-02 23:08:20 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_leaves": {
-    "criteria": {
-      "has_leaves": "2025-12-02 22:47:14 +0100"
-    },
-    "done": true
-  },
-  "windswept:recipes/misc/rose_flower_banner_pattern": {
-    "criteria": {
-      "has_roses": "2025-12-02 21:32:08 +0100"
     },
     "done": true
   },
@@ -23389,12 +23383,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-12-02 21:32:08 +0100"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-02 23:08:20 +0100"
@@ -23407,69 +23395,483 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_beam": {
-    "criteria": {
-      "has_log": "2025-12-02 22:56:50 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_frame": {
-    "criteria": {
-      "has_planks": "2025-12-02 22:56:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_wall": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:56:50 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-02 22:48:51 +0100"
-    },
-    "done": true
-  },
   "undergarden:recipes/transportation/wigglewood_chest_boat": {
     "criteria": {
       "has_boat": "2025-12-02 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry_planks": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_trim": {
+    "criteria": {
+      "has_block": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_wall": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2025-12-03 21:01:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-12-03 21:47:02 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/dreamwoods/sign_post_ruby_maple": {
+    "criteria": {
+      "has_item": "2025-12-03 21:06:29 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/cherry_wreath": {
+    "criteria": {
+      "has_cherry_leaves": "2025-12-03 21:01:05 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_support": {
+    "criteria": {
+      "has_block": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/creeper_head": {
+    "criteria": {
+      "has_creeper_head": "2025-12-03 21:47:02 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-12-03 20:47:47 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_pallet": {
+    "criteria": {
+      "has_planks": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_beam": {
+    "criteria": {
+      "has_log": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cherry_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "lavender": "2025-12-03 21:39:03 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_barrel": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_layer": {
+    "criteria": {
+      "has_block": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_ladder": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "species:species/v3/wicked_stop_haunting": {
+    "criteria": {
+      "wicked_stop_haunting": "2025-12-03 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_1": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_3": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_2": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_limited_barrel_4": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-12-03 20:47:43 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-12-03 20:47:31 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cherry_large_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_chest": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_frame": {
+    "criteria": {
+      "has_planks": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_storage_connector": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
     },
     "done": true
   },

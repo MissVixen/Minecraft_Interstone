@@ -23134,78 +23134,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-02 22:14:57 +0100"
-    },
-    "done": false
-  },
   "celestisynth:recipes/misc/lunar_scrap_smelting": {
     "criteria": {
       "has_item": "2025-12-02 21:32:00 +0100"
@@ -23239,6 +23167,396 @@
   "celestisynth:recipes/combat/lunar_stone_leggings": {
     "criteria": {
       "has_item": "2025-12-02 21:32:00 +0100"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-04 00:10:24 +0100"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_nether_wart_block": {
+    "criteria": {
+      "has_nether_wart_block": "2025-12-03 21:12:37 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_bricks_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_helmet": {
+    "criteria": {
+      "has_cherry_wood": "2025-12-03 22:16:53 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_boots": {
+    "criteria": {
+      "has_cherry_wood": "2025-12-03 22:16:53 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_wall": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2025-12-03 22:40:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2025-12-03 21:03:34 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_bone_tiles_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/cherry_wreath": {
+    "criteria": {
+      "has_cherry_leaves": "2025-12-03 21:03:34 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_pallet": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_beam": {
+    "criteria": {
+      "has_log": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_grass": {
+    "criteria": {
+      "has_grass": "2025-12-03 22:40:59 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/misc/short_snow_grass": {
+    "criteria": {
+      "has_grass": "2025-12-03 22:40:59 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_bone_bricks_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_cookie": {
+    "criteria": {
+      "has_cherry_sapling": "2025-12-03 21:03:00 +0100"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_chestplate": {
+    "criteria": {
+      "has_cherry_wood": "2025-12-03 22:16:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_roll": {
+    "criteria": {
+      "has_cherry_sapling": "2025-12-03 21:03:00 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tiles_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_leaves": {
+    "criteria": {
+      "has_leaves": "2025-12-03 21:03:34 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tile_stairs_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_brick_slab_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_bricks": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:enter_dna_forest": {
+    "criteria": {
+      "enter_dna_forest_0": "2025-12-03 21:14:11 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tile_wall_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_frame": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tile_slab_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_cherry_wood": "2025-12-03 22:16:53 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_brick_stairs_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_brick_wall_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:02:53 +0100"
+    },
+    "done": true
+  },
+  "species:recipes/bone_bark": {
+    "criteria": {
+      "has_item": "2025-12-03 22:13:18 +0100"
+    },
+    "done": true
+  },
+  "species:recipes/bone_vertebra": {
+    "criteria": {
+      "has_item": "2025-12-03 22:13:18 +0100"
     },
     "done": true
   },
