@@ -22543,9 +22543,10 @@
   "undergarden:undergarden/kill_all_rotspawn": {
     "criteria": {
       "kill_rotling": "2025-11-27 22:20:12 +0100",
-      "kill_rotwalker": "2025-11-27 22:20:12 +0100"
+      "kill_rotwalker": "2025-11-27 22:20:12 +0100",
+      "kill_rotbeast": "2025-12-10 20:49:40 +0100"
     },
-    "done": false
+    "done": true
   },
   "ars_nouveau:source_jar": {
     "criteria": {
@@ -23401,93 +23402,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-04 00:15:25 +0100"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
-    "criteria": {
-      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+      "has_iron_backpack": "2025-12-03 20:47:31 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_fence": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_planks": "2025-12-03 21:06:32 +0100"
+      "has_gold_backpack": "2025-12-03 20:47:43 +0100"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+      "has_diamond_backpack": "2025-12-03 20:47:47 +0100"
     },
     "done": true
   },
@@ -23497,33 +23426,9 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/cherry_planks": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:06:32 +0100"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:06:32 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:06:32 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/cherry_trim": {
-    "criteria": {
-      "has_block": "2025-12-03 21:06:32 +0100"
     },
     "done": true
   },
@@ -23545,33 +23450,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:06:32 +0100"
-    },
-    "done": true
-  },
   "bbb:recipes/cherry_wall": {
     "criteria": {
       "has_logs": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
-    "criteria": {
-      "has_cherry_leaves": "2025-12-03 21:01:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2025-12-03 21:47:02 +0100"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/building_blocks/dreamwoods/sign_post_ruby_maple": {
-    "criteria": {
-      "has_item": "2025-12-03 21:06:29 +0100"
     },
     "done": true
   },
@@ -23581,45 +23462,15 @@
     },
     "done": true
   },
-  "windswept:recipes/decorations/cherry_wreath": {
-    "criteria": {
-      "has_cherry_leaves": "2025-12-03 21:01:05 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/cherry_support": {
-    "criteria": {
-      "has_block": "2025-12-03 21:06:32 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/creeper_head": {
-    "criteria": {
-      "has_creeper_head": "2025-12-03 21:47:02 +0100"
-    },
-    "done": true
-  },
   "mcwstairs:recipes/cherry": {
     "criteria": {
       "has_planks": "2025-12-03 20:48:50 +0100"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-12-03 20:47:47 +0100"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
-    "criteria": {
-      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
     },
     "done": true
   },
@@ -23635,17 +23486,155 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_frame": {
+    "criteria": {
+      "has_planks": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2025-12-03 21:01:05 +0100"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/cherry_wreath": {
+    "criteria": {
+      "has_cherry_leaves": "2025-12-03 21:01:05 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/dreamwoods/sign_post_ruby_maple": {
+    "criteria": {
+      "has_item": "2025-12-03 21:06:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry_planks": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_trim": {
+    "criteria": {
+      "has_block": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_support": {
+    "criteria": {
+      "has_block": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/cherry_plank_secret_button": {
     "criteria": {
       "has_thing": "2025-12-03 21:06:32 +0100"
     },
     "done": true
-  },
-  "quark:get_all_blossom_saplings": {
-    "criteria": {
-      "lavender": "2025-12-03 21:39:03 +0100"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
@@ -23695,18 +23684,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
-  "species:species/v3/wicked_stop_haunting": {
-    "criteria": {
-      "wicked_stop_haunting": "2025-12-03 21:10:07 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/cherry_limited_barrel_1": {
     "criteria": {
       "has_cherry_plank": "2025-12-03 21:06:32 +0100"
@@ -23731,33 +23708,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_item": "2025-12-03 21:06:32 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-12-03 20:47:43 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 20:48:50 +0100"
     },
     "done": true
   },
@@ -23767,21 +23720,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-12-03 21:06:32 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 20:48:50 +0100"
     },
     "done": true
   },
@@ -23791,21 +23732,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-12-03 20:47:31 +0100"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/cherry_large_button": {
     "criteria": {
       "has_thing": "2025-12-03 21:06:32 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 20:48:50 +0100"
     },
     "done": true
   },
@@ -23821,18 +23750,6 @@
     },
     "done": true
   },
-  "bbb:recipes/cherry_frame": {
-    "criteria": {
-      "has_planks": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/cherry": {
-    "criteria": {
-      "has_planks": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-12-03 21:06:32 +0100"
@@ -23845,21 +23762,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 20:48:50 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-12-03 21:06:32 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 20:48:50 +0100"
     },
     "done": true
   },
@@ -23872,6 +23777,444 @@
   "sophisticatedstorage:recipes/misc/cherry_storage_connector": {
     "criteria": {
       "has_cherry_planks": "2025-12-03 21:06:32 +0100"
+    },
+    "done": true
+  },
+  "species:species/v3/wicked_stop_haunting": {
+    "criteria": {
+      "wicked_stop_haunting": "2025-12-03 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "lavender": "2025-12-03 21:39:03 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-12-03 21:47:02 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/creeper_head": {
+    "criteria": {
+      "has_creeper_head": "2025-12-03 21:47:02 +0100"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:41:44 +0100"
+    },
+    "done": false
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tile_slab_from_cobbled_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-12-10 20:58:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-12-10 21:23:18 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cobbled_deepslate_tile_wall_from_cobbled_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tile_stairs_from_cobbled_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_deepslate_bricks_from_vine": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "too_many_bows:repair_crystal": {
+    "criteria": {
+      "get_repair": "2025-12-10 21:31:19 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_slab_from_cobbled_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/chiseled_deepslate_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-12-10 21:53:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-12-10 21:01:07 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/mossy_deepslate_bricks_from_moss_block": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/deepslate_brick_layer": {
+    "criteria": {
+      "has_block": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-12-10 21:23:07 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_slab": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tiles_from_cobbled_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_stairs_from_cobbled_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-12-10 21:23:07 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_brick_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_deepslate_layer": {
+    "criteria": {
+      "has_block": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-12-10 21:23:07 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/chiseled_deepslate_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cobbled_deepslate_brick_wall_from_cobbled_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-12-10 21:23:07 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-12-10 21:23:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/deepslate_pillar": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cobbled_deepslate_brick_wall": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-12-10 21:35:02 +0100"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tiles": {
+    "criteria": {
+      "has_cobbled_deepslate_bricks": "2025-12-10 21:27:56 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-12-10 21:23:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-10 21:36:24 +0100"
     },
     "done": true
   },

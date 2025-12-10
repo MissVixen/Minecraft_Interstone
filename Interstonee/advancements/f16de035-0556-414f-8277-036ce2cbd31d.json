@@ -2927,7 +2927,10 @@
       "minecraft:frozen_river": "2025-11-14 13:38:04 +0100",
       "minecraft:sunflower_plains": "2025-11-10 22:03:05 +0100",
       "minecraft:birch_forest": "2025-11-09 17:18:56 +0100",
+      "minecraft:bamboo_jungle": "2025-12-10 21:58:45 +0100",
+      "minecraft:savanna_plateau": "2025-12-10 21:56:19 +0100",
       "minecraft:beach": "2025-11-06 20:58:35 +0100",
+      "minecraft:dark_forest": "2025-12-10 21:57:26 +0100",
       "minecraft:sparse_jungle": "2025-11-10 22:10:32 +0100",
       "minecraft:river": "2025-11-06 21:01:18 +0100",
       "minecraft:stony_shore": "2025-11-06 22:05:41 +0100",
@@ -2939,6 +2942,7 @@
       "minecraft:deep_cold_ocean": "2025-11-09 17:55:10 +0100",
       "minecraft:ice_spikes": "2025-11-14 13:38:07 +0100",
       "minecraft:ocean": "2025-11-06 22:11:47 +0100",
+      "minecraft:jungle": "2025-12-10 22:00:01 +0100",
       "minecraft:snowy_beach": "2025-11-14 13:38:37 +0100",
       "minecraft:savanna": "2025-11-10 21:48:56 +0100",
       "minecraft:plains": "2025-11-09 17:34:18 +0100"
@@ -5472,6 +5476,7 @@
       "minecraft:spider": "2025-11-09 00:08:36 +0100",
       "minecraft:creeper": "2025-11-06 21:32:29 +0100",
       "caverns_and_chasms:peeper": "2025-11-11 22:24:29 +0100",
+      "minecraft:phantom": "2025-12-10 22:24:07 +0100",
       "minecraft:zombified_piglin": "2025-11-17 23:03:37 +0100",
       "minecraft:wither_skeleton": "2025-12-01 22:30:14 +0100",
       "minecraft:husk": "2025-12-01 22:27:08 +0100",
@@ -14950,7 +14955,8 @@
   },
   "too_many_bows:master_bow_collector": {
     "criteria": {
-      "torchbearer": "2025-11-09 17:25:57 +0100"
+      "torchbearer": "2025-11-09 17:25:57 +0100",
+      "ancient_sage_bow": "2025-12-10 22:04:55 +0100"
     },
     "done": false
   },
@@ -21100,81 +21106,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "skyarena:use_altar_battle": {
     "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
+      "use_altar_battle": "2025-12-03 21:02:19 +0100"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "goety:goety/kill_a_muck_wraith": {
     "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-12-03 22:32:24 +0100"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_slab_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
+      "kill_a_wraith": "2025-12-03 21:02:26 +0100"
     },
     "done": true
   },
@@ -21184,27 +21124,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tame_subterranodon": {
-    "criteria": {
-      "killed": "2025-12-03 21:18:38 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/mangrove": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/bone_bricks_from_bone_block_stonecutting": {
-    "criteria": {
-      "has_bone_block": "2025-12-03 22:16:58 +0100"
     },
     "done": true
   },
@@ -21214,51 +21136,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/stripped_mangrove_log_from_mangrove_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/cherry_planks": {
     "criteria": {
       "has_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_4": {
-    "criteria": {
-      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_3": {
-    "criteria": {
-      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_2": {
-    "criteria": {
-      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_1": {
-    "criteria": {
-      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
@@ -21280,129 +21160,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/mangrove_large_button": {
-    "criteria": {
-      "has_thing": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_sign": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "armageddon_mod:emerald_totem_avancement": {
-    "criteria": {
-      "emerald_totem_avancement_0": "2025-12-03 21:58:23 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/barrel_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/mangrove": {
-    "criteria": {
-      "has_wood": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/mangrove_window": {
-    "criteria": {
-      "has_ingredient": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/cracked_bone_tiles_from_bone_block_stonecutting": {
-    "criteria": {
-      "has_bone_block": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/mangrove_pallet": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/mangrove_storage_connector": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_slab": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
-    "criteria": {
-      "has_item": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/mangrove_frame": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:50 +0100"
     },
     "done": true
   },
@@ -21412,27 +21172,9 @@
     },
     "done": true
   },
-  "armageddon_mod:zoranth_relic_advancment": {
-    "criteria": {
-      "zoranth_relic_advancment_0": "2025-12-03 21:58:32 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
     "criteria": {
       "has_cherry_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/chest_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_door_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
@@ -21442,27 +21184,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/chiseled_stone_brick_secret_button": {
-    "criteria": {
-      "has_thing": "2025-12-03 21:13:47 +0100"
     },
     "done": true
   },
@@ -21472,63 +21196,9 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/cracked_bone_bricks_from_bone_block_stonecutting": {
-    "criteria": {
-      "has_bone_block": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/cherry_blossom_cookie": {
-    "criteria": {
-      "has_cherry_sapling": "2025-12-03 22:05:24 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_fence": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
   "bbb:recipes/cherry_layer": {
     "criteria": {
       "has_block": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/mangrove_barrel": {
-    "criteria": {
-      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/mangrove_beam": {
-    "criteria": {
-      "has_log": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-12-03 21:09:50 +0100"
     },
     "done": true
   },
@@ -21538,63 +21208,15 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/mangrove_plank_secret_button": {
-    "criteria": {
-      "has_thing": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_cherry_planks": "2025-12-03 21:09:40 +0100"
     },
     "done": true
   },
-  "bbb:recipes/mangrove_wall": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "armageddon_mod:builder_stone_advancement": {
-    "criteria": {
-      "builder_stone_advancement_0": "2025-12-03 21:58:24 +0100"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/mangrove": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
     "criteria": {
       "has_cherry_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_trapdoor_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/cherry_blossom_roll": {
-    "criteria": {
-      "has_cherry_sapling": "2025-12-03 22:05:24 +0100"
     },
     "done": true
   },
@@ -21607,12 +21229,6 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
     "criteria": {
       "has_cherry_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/crafting_table_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
@@ -21640,57 +21256,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "somemoreblocks:recipes/building_blocks/bone_tiles_from_bone_block_stonecutting": {
-    "criteria": {
-      "has_bone_block": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_item": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
-    "criteria": {
-      "has_item": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/coarse_dirt": {
-    "criteria": {
-      "has_coarse_dirt": "2025-12-03 21:15:39 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
@@ -21700,15 +21268,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_gate_from_mangrove_planks_woodcutting": {
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
     },
     "done": true
   },
-  "mcwroofs:recipes/mangrove_planks": {
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
     "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cherry_large_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_chest": {
+    "criteria": {
+      "has_cherry_plank": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_storage_connector": {
+    "criteria": {
+      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/stripped_mangrove_log_from_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_pallet": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_frame": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_beam": {
+    "criteria": {
+      "has_log": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_wall": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
     },
     "done": true
   },
@@ -21724,15 +21448,225 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_from_mangrove_planks_woodcutting": {
+  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_swamp": {
+    "criteria": {
+      "has_logs": "2025-12-03 21:09:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_slab_from_mangrove_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+  "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
     "criteria": {
-      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_4": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_3": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_2": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_1": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/mangrove_large_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/barrel_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_storage_connector": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/chest_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_door_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_barrel": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/mangrove_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_trapdoor_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/crafting_table_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_gate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
@@ -21742,33 +21676,201 @@
     },
     "done": true
   },
-  "somemoreblocks:recipes/building_blocks/bone_tile_stairs_from_bone_block_stonecutting": {
-    "criteria": {
-      "has_bone_block": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
-    "criteria": {
-      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
   "bbb:recipes/mangrove_trim": {
     "criteria": {
       "has_block": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/cherry_large_button": {
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
     "criteria": {
-      "has_thing": "2025-12-03 21:09:40 +0100"
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_mangrove": {
+    "criteria": {
+      "has_item": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_layer": {
+    "criteria": {
+      "has_block": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_ladder": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_support": {
+    "criteria": {
+      "has_block": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_chest": {
+    "criteria": {
+      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-03 21:09:59 +0100"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/chiseled_stone_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-12-03 21:13:47 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/coarse_dirt": {
+    "criteria": {
+      "has_coarse_dirt": "2025-12-03 21:15:39 +0100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-12-03 21:18:31 +0100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-12-03 21:18:38 +0100"
+    },
+    "done": true
+  },
+  "armageddon_mod:emerald_totem_avancement": {
+    "criteria": {
+      "emerald_totem_avancement_0": "2025-12-03 21:58:23 +0100"
+    },
+    "done": true
+  },
+  "armageddon_mod:builder_stone_advancement": {
+    "criteria": {
+      "builder_stone_advancement_0": "2025-12-03 21:58:24 +0100"
+    },
+    "done": true
+  },
+  "armageddon_mod:zoranth_relic_advancment": {
+    "criteria": {
+      "zoranth_relic_advancment_0": "2025-12-03 21:58:32 +0100"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_cookie": {
+    "criteria": {
+      "has_cherry_sapling": "2025-12-03 22:05:24 +0100"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_roll": {
+    "criteria": {
+      "has_cherry_sapling": "2025-12-03 22:05:24 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_bricks_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_bone_tiles_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/cracked_bone_bricks_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tiles_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-12-03 22:16:58 +0100"
+    },
+    "done": true
+  },
+  "somemoreblocks:recipes/building_blocks/bone_tile_stairs_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-12-03 22:16:58 +0100"
     },
     "done": true
   },
@@ -21790,81 +21892,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
-    "criteria": {
-      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/cherry_chest": {
-    "criteria": {
-      "has_cherry_plank": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_blossom_trapdoor": {
-    "criteria": {
-      "has_plankss": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_mangrove": {
-    "criteria": {
-      "has_item": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/mangrove_layer": {
-    "criteria": {
-      "has_block": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/mangrove_ladder": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
@@ -21874,39 +21904,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "skyarena:use_altar_battle": {
-    "criteria": {
-      "use_altar_battle": "2025-12-03 21:02:19 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
   "somemoreblocks:recipes/building_blocks/bone_brick_stairs_from_bone_block_stonecutting": {
     "criteria": {
       "has_bone_block": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "bbb:recipes/mangrove_support": {
-    "criteria": {
-      "has_block": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
@@ -21916,63 +21916,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
-    "criteria": {
-      "requirement": "2025-12-03 21:18:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
-    "criteria": {
-      "has_mangrove_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/mangrove_chest": {
-    "criteria": {
-      "has_mangrove_plank": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_swamp": {
-    "criteria": {
-      "has_logs": "2025-12-03 21:09:50 +0100"
-    },
-    "done": true
-  },
-  "goety:goety/kill_a_muck_wraith": {
-    "criteria": {
-      "kill_a_wraith": "2025-12-03 21:02:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
-    },
-    "done": true
-  },
   "species:recipes/bone_bark": {
     "criteria": {
       "has_item": "2025-12-03 22:16:58 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cherry_window": {
-    "criteria": {
-      "has_ingredient": "2025-12-03 21:09:40 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_button": {
-    "criteria": {
-      "has_planks": "2025-12-03 21:09:59 +0100"
     },
     "done": true
   },
@@ -21982,15 +21928,501 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/cherry_storage_connector": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_cherry_planks": "2025-12-03 21:09:40 +0100"
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-10 22:39:49 +0100"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_planks_woodcutting": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "give_recipe": "2025-12-03 21:09:59 +0100"
+      "has_ancient_debris": "2025-12-10 22:09:18 +0100"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-12-10 22:10:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2025-12-10 22:29:14 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_pallet": {
+    "criteria": {
+      "has_planks": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-12-10 22:06:03 +0100"
+    },
+    "done": true
+  },
+  "more_critters:open_critter_atlas": {
+    "criteria": {
+      "open_critter_atlas_0": "2025-12-10 22:31:23 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-12-10 22:03:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_frame": {
+    "criteria": {
+      "has_planks": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-10 22:03:08 +0100"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-12-10 22:09:18 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/bamboo_frame": {
+    "criteria": {
+      "has_planks": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/woven_bamboo": {
+    "criteria": {
+      "has_item": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "goety:goety/gain_fragment": {
+    "criteria": {
+      "forbidden_piece": "2025-12-10 22:30:32 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/bamboo_pallet": {
+    "criteria": {
+      "has_planks": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "goety:goety/read_warred_scroll": {
+    "criteria": {
+      "warred_scroll": "2025-12-10 22:24:37 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "too_many_bows:ancient_sage_bow": {
+    "criteria": {
+      "get_sage_bow": "2025-12-10 22:04:55 +0100"
+    },
+    "done": true
+  },
+  "hexalia:recipes/galeberries": {
+    "criteria": {
+      "has_glow_berries": "2025-12-10 22:06:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/stripped_acacia_log_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-12-10 22:06:03 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-12-10 22:24:07 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-12-10 22:09:18 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2025-12-10 22:29:14 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-12-10 22:06:03 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_beam": {
+    "criteria": {
+      "has_log": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_wall": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "goety:goety/read_warred_and_haunting_scroll": {
+    "criteria": {
+      "warred_scroll": "2025-12-10 22:24:37 +0100"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-12-10 22:14:24 +0100"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-12-10 21:59:01 +0100"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-12-10 22:09:18 +0100"
     },
     "done": true
   },
